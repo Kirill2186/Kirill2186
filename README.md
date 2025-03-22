@@ -26,3 +26,8 @@
 
 
  ### Тестовые артефакты:
+ <div>
+ <li> <a href="https://github.com/Kirill2186/web_testing">Web Testing </a> </li>
+  <li> <a href="https://github.com/Kirill2186/Api_testing">Тестирование REST API с помощью Postman
+ </a> </li>
+  </div>
