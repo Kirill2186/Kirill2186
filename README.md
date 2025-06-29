@@ -27,7 +27,30 @@
 
  ### Тестовые артефакты:
  <div>
- <li> <a href="https://github.com/Kirill2186/web_testing">Web Testing </a> </li>
-  <li> <a href="https://github.com/Kirill2186/Api_testing">Тестирование REST API с помощью Postman
- </a> </li>
+ ### Тестовые артефакты
+
+- [Теория тестирования для интернет-магазина](https://github.com/Kirill2186/theory)  
+  _Методы, уровни тестирования, анализ требований_
+
+- [Тест-дизайн для интернет-магазина](https://github.com/Kirill2186/design)  
+  _Эквивалентное разбиение, границы, фильтрация, Paypal_
+
+- [Документация по тестированию](https://github.com/Kirill2186/docs)  
+  _Чек-листы, тест-кейсы, Test run, баг-репорты_
+
+- [Web Testing](https://github.com/Kirill2186/web)  
+  _Тест-план, QASE run, баги, анализ трафика_
+
+- [API тестирование Postman](https://github.com/Kirill2186/api)  
+  _Postman коллекция, тест-кейсы, автотесты_
+
+- [Тестирование базы данных](https://github.com/Kirill2186/database)  
+  _SQL и MongoDB запросы, проверка данных_
+
+- [Тестирование мобильного приложения](https://github.com/Kirill2186/mobile)  
+  _Чек-листы, баги, отчёты, анализ трафика_
+
+- [Основные команды Git Bash](https://github.com/Kirill2186/git_bash)  
+  _Базовые команды git для работы с версиями_
+
   </div>
