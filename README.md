@@ -1,55 +1,70 @@
-# Привет, меня зовут Кирилл!
-<p> Я Manual QA Engineer. Здесь я хочу поделиться своими проектами в области тестирования </p>
+# Привет! 👋
 
+Я — QA Manual, и на этом GitHub делюсь своими знаниями и реальными проектами. Здесь собраны работы и артефакты, которые я выполнял во время обучения и самостоятельной практики. Прошёл курс Артёма Русова по функциональному тестированию, где закрепил ключевые навыки ручного тестирования.
 
-### Обо мне:
-<div>
-<li> Закончил курсы <a href="https://stepik.org/cert/2759693">по ручному тестированию </a> </li>
- </div>
+---
 
+## Обо мне
 
-### Социальные сети:
-  <div id="badges">
-       </a>
-    <a href="https://t.me/sharkovkirill06" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+1. Составлял чек-листы и тест-кейсы для проектов.
+2. Проводил ручное тестирование web, mobile и API.
+3. Работал с баг-трекинговой системой YouTrack для фиксации и анализа дефектов.
+4. Описывал тест-планы, сценарии и проводил тест-раны в Qase.
+5. Тестировал backend через Postman, писал коллекции для API.
+6. Анализировал дизайн и макеты в Figma и PerfectPixel.
+7. Перехватывал и анализировал сетевой трафик через Charles Proxy.
+8. Выполнял проверки баз данных с помощью MySQL и MongoDB.
+9. Работал с системами контроля версий (Git, Bash) и вел тестовую документацию в VS Code.
 
+---
 
-### Инструменты:
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
-  </div>
+## Инструменты
 
+[![DevTools](https://img.shields.io/badge/DevTools-333?logo=googlechrome&logoColor=fff)](https://developer.chrome.com/docs/devtools/)
+[![Qase](https://img.shields.io/badge/Qase-333?logo=qase&logoColor=fff)](https://qase.io/)
+[![YouTrack](https://img.shields.io/badge/YouTrack-333?logo=jetbrains&logoColor=fff)](https://www.jetbrains.com/youtrack/)
+[![Figma](https://img.shields.io/badge/Figma-333?logo=figma&logoColor=fff)](https://figma.com/)
+[![PerfectPixel](https://img.shields.io/badge/PerfectPixel-333?logo=googlechrome&logoColor=fff)](https://www.welldonecode.com/perfectpixel/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-333?logo=androidstudio&logoColor=fff)](https://developer.android.com/studio)
+[![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-333?logo=charlesproxy&logoColor=fff)](https://www.charlesproxy.com/)
+[![Postman](https://img.shields.io/badge/Postman-333?logo=postman&logoColor=fff)](https://postman.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-333?logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/Git-333?logo=git&logoColor=fff)](https://git-scm.com/)
+[![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-333?logo=visualstudiocode&logoColor=fff)](https://code.visualstudio.com/)
 
- ### Тестовые артефакты:
- <div>
+---
 
-- [Теория тестирования для интернет-магазина](https://github.com/Kirill2186/theory)  
-  _Методы, уровни тестирования, анализ требований_
+## Тестовые артефакты
 
-- [Тест-дизайн для интернет-магазина](https://github.com/Kirill2186/design)  
-  _Эквивалентное разбиение, границы, фильтрация, Paypal_
+- **[Теория тестирования для интернет-магазина](https://github.com/Kirill2186/theory)**  
+  Методы, уровни тестирования, анализ требований
 
-- [Документация по тестированию](https://github.com/Kirill2186/docs)  
-  _Чек-листы, тест-кейсы, Test run, баг-репорты_
+- **[Тест-дизайн для интернет-магазина](https://github.com/Kirill2186/design)**  
+  Эквивалентное разбиение, границы, фильтрация, Paypal
 
-- [Web Testing](https://github.com/Kirill2186/web)  
-  _Тест-план, QASE run, баги, анализ трафика_
+- **[Документация по тестированию](https://github.com/Kirill2186/docs)**  
+  Чек-листы, тест-кейсы, Test run, баг-репорты
 
-- [API тестирование Postman](https://github.com/Kirill2186/api)  
-  _Postman коллекция, тест-кейсы, автотесты_
+- **[Web Testing](https://github.com/Kirill2186/web)**  
+  Тест-план, QASE run, баги, анализ трафика
 
-- [Тестирование базы данных](https://github.com/Kirill2186/database)  
-  _SQL и MongoDB запросы, проверка данных_
+- **[API тестирование Postman](https://github.com/Kirill2186/api)**  
+  Postman коллекция, тест-кейсы, автотесты
 
-- [Тестирование мобильного приложения](https://github.com/Kirill2186/mobile)  
-  _Чек-листы, баги, отчёты, анализ трафика_
+- **[Тестирование базы данных](https://github.com/Kirill2186/database)**  
+  SQL и MongoDB запросы, проверка данных
 
-- [Основные команды Git Bash](https://github.com/Kirill2186/git_bash)  
-  _Базовые команды git для работы с версиями_
+- **[Тестирование мобильного приложения](https://github.com/Kirill2186/mobile)**  
+  Чек-листы, баги, отчёты, анализ трафика
 
-  </div>
+- **[Основные команды Git Bash](https://github.com/Kirill2186/git_bash)**  
+  Базовые команды git для работы с версиями
+
+---
+
+## Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-333?logo=telegram&logoColor=fff)](https://t.me/kirill06578)
+[![Gmail](https://img.shields.io/badge/Gmail-333?logo=gmail&logoColor=fff)](mailto:sharkovkirill06@gmail.com)
