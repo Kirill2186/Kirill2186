@@ -70,3 +70,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-333?logo=telegram&logoColor=fff)](https://t.me/kirill06578)
 [![Gmail](https://img.shields.io/badge/Gmail-333?logo=gmail&logoColor=fff)](mailto:sharkovkirill06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kirill-sharkov-6849b122a/)
