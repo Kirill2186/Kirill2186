@@ -6,6 +6,11 @@
 > [Моё резюме (Google Drive)](https://drive.google.com/file/d/1h_2npiR30SHyYW4aWrXZcw0YFYBwbeS7/view?usp=drive_link)
 ---
 
+# 📝 Recommendation Letter
+
+Ознакомиться с рекомендательным письмом можно по ссылке:  
+[Рекомендательное письмо (Google Drive)](https://drive.google.com/file/d/1m5UePRocnlaGfP9YFVR7YA9clFUSA2ti/view?usp=drive_link)
+
 ## Обо мне
 
 1. Составлял чек-листы и тест-кейсы для проектов.
